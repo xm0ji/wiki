@@ -15,7 +15,7 @@ Russia to name a few.
 Google holds over 70% of the browser market and through IP addresses tracks what we do on internet. Big tech collaborate with governments by handing over information on demand. Even when we are not online, 
 society is digitalized which faciliates enforcing control measures. When we move in society cameras are watching us or the electronic cards we might use for transportation or payment map out our lives. 
 
-To develop open source software which aims to bring privacy solutions to users is being criminalized. When [Tornado cash](tornado.cash) developer [Alex pertsev](https://www.freealex.nl/) was arrested in
+To develop open source software which aims to bring privacy solutions to users is being criminalized. When [Tornado cash](https://tornado.cash/) developer [Alex Pertsev](https://www.dlnews.com/articles/regulation/tornado-cash-dev-alexey-pertsev-guilty-of-money-laundering/) was arrested in
  Amsterdam, US government publicly tagged all Tornado cash users. The current push to regulate crypto including imposing CBDC (Central Bank Digital Currency) is a way for nation-states to co-opt crypto, 
 control people and money flow.
 
